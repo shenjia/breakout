@@ -4,7 +4,7 @@ A tiny breakout game made by pygame 1.9.4.
 
 Move the pad to broke those blocks by you ball, try it and have fun!
 
-![Screenshot](https://github.com/shenjia/breakout/raw/master/screenshot.png)
+![Screenshot](https://github.com/shenjia/breakout/raw/master/screenshot.jpg)
 
 ## How to play?
 1. Clone this repository to your computer.
